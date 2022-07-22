@@ -1,4 +1,4 @@
-# Daftar Peserta DTS - Progate Batch 2
+# Daftar Peserta DTS - Progate Batch 3
 
 <img src="https://api.codiga.io/project/33684/score/svg" /> <img src="https://api.codiga.io/project/33684/status/svg" />
 
